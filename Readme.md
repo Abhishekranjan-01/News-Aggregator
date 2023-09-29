@@ -1,3 +1,23 @@
 # News Aggregator
 
-## Work In Progress
+## Features
+
+- You can get news of your interest by searching on search input box.
+- Different section for continent specific news.
+- Responsiveness.
+- Night Mode.
+
+## Tech Stack Used
+
+1. Html
+2. Tailwind Css
+3. Javascript
+
+### Limitation of this project:-
+
+- It can only run on localhost.
+- To checkout this project you can simply open this repository in vs-code and run it through live server.
+
+### Api used:-
+
+- <https://newsapi.org/docs/get-started>
