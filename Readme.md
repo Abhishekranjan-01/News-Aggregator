@@ -4,6 +4,7 @@
 
 - You can get news of your interest by searching on search input box.
 - Different section for continent specific news.
+- Articles get visible on screen as per user scroll.
 - Responsiveness.
 - Night Mode.
 
