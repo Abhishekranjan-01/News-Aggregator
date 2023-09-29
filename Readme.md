@@ -15,7 +15,7 @@
 
 ### Limitation of this project:-
 
-- It can only run on localhost.
+- It can only run on localhost due to restriction by API provider.
 - To checkout this project you can simply open this repository in vs-code and run it through live server.
 
 ### Api used:-
